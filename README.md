@@ -2,7 +2,6 @@
 
 Pagamas Thongkratok
 Cream 🍨
-cookie 🍪
 
 <!--
 **ccrmm888/ccrmm888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
